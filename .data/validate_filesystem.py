@@ -5,7 +5,7 @@ import re
 def main():
     try:
         total_issues = int(os.environ.get("TOTAL_ISSUES"))
-    except TypeError:
+    except:
         print("TOTAL_ISSUES secret not set.")
         return
 

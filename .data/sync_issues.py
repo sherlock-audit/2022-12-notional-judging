@@ -105,7 +105,7 @@ def process_directory(repo, path):
             files = [item]
 
         for file in files:
-            if "report" in file.name:
+            if "best" in file.name:
                 issue_id = int(file.name.replace("-best.md", ""))
                 parent = issue_id
             else:

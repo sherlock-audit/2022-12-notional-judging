@@ -1176,7 +1176,7 @@ valid, will fix
 Source: https://github.com/sherlock-audit/2022-12-notional-judging/issues/11 
 
 ## Found by 
-thekmj, xiaoming90
+xiaoming90, thekmj
 
 ## Summary
 
@@ -1395,7 +1395,7 @@ valid, will fix
 Source: https://github.com/sherlock-audit/2022-12-notional-judging/issues/9 
 
 ## Found by 
-Jeiwan, xiaoming90
+xiaoming90, Jeiwan
 
 ## Summary
 
@@ -1637,7 +1637,7 @@ Considering this a medium severity issue.
 Source: https://github.com/sherlock-audit/2022-12-notional-judging/issues/20 
 
 ## Found by 
-Jeiwan, xiaoming90
+xiaoming90, Jeiwan
 
 ## Summary
 
@@ -1702,7 +1702,7 @@ valid, will fix
 Source: https://github.com/sherlock-audit/2022-12-notional-judging/issues/2 
 
 ## Found by 
-ak1, MalfurionWhitehat, Deivitto
+MalfurionWhitehat, Deivitto, ak1
 
 ## Summary
 
